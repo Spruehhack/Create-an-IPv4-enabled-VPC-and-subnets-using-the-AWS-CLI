@@ -27,4 +27,4 @@
         igw-dd44fwf
         
         
-aws ec2 attach-internet-gateway --vpc-id /vpc-2f09a348/ --internet-gateway-id igw-1ff7a07b
+aws ec2 attach-internet-gateway --vpc-id vpc-2f09a348 --internet-gateway-id igw-1ff7a07b
